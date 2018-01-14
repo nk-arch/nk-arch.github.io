@@ -21,4 +21,88 @@
     </item>
     
   </channel>
+</rss>ικά
+description Fetching image from S3</description>
+    </item>
+    
+    <item>
+      <title>Ipsum</title>
+      <link>https://nk-arch.github.io/competitions/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://nk-arch.github.io/competitions/ipsum/</guid>
+      <description>INFO something in English
+FOtos Κάτι στα ελληνικά
+description Fetching image from S3</description>
+    </item>
+    
+    <item>
+      <title>My CV</title>
+      <link>https://nk-arch.github.io/cv/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://nk-arch.github.io/cv/</guid>
+      <description>Nantia Education  2010-2014 (expected) **Master, **; Awesome University (MyTown)
+Thesis title: Deep Learning Approaches to the Self-Awesomeness Estimation Problem
+ 2007-2010 BSc, Computer Science and Electrical Engineering; University of HomeTown (HomeTown)
+Minor: Awesomeology
+  Experience  Item with link. Links will work both in the html and pdf versions.  Technical Experience  archicat  Extra Section, Call it Whatever You Want  Human Languages:
+ English  Random tidbit</description>
+    </item>
+    
+    <item>
+      <title>My CV</title>
+      <link>https://nk-arch.github.io/cv/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://nk-arch.github.io/cv/</guid>
+      <description>Nantia Education  2010-2014 (expected) **Master, **; Awesome University (MyTown)
+Thesis title: Deep Learning Approaches to the Self-Awesomeness Estimation Problem
+ 2007-2010 BSc, Computer Science and Electrical Engineering; University of HomeTown (HomeTown)
+Minor: Awesomeology
+  Experience  Item with link. Links will work both in the html and pdf versions.  Technical Experience  archicat  Extra Section, Call it Whatever You Want  Human Languages:
+ English  Random tidbit</description>
+    </item>
+    
+    <item>
+      <title>projectX-title</title>
+      <link>https://nk-arch.github.io/projects/projectx/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://nk-arch.github.io/projects/projectx/</guid>
+      <description>INFO something in English
+FOtos Κάτι στα ελληνικά</description>
+    </item>
+    
+    <item>
+      <title>projectX-title</title>
+      <link>https://nk-arch.github.io/projects/projectx/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://nk-arch.github.io/projects/projectx/</guid>
+      <description>INFO something in English
+FOtos Κάτι στα ελληνικά</description>
+    </item>
+    
+    <item>
+      <title>projectY-title</title>
+      <link>https://nk-arch.github.io/projects/projecty/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://nk-arch.github.io/projects/projecty/</guid>
+      <description> INFO something in English
+one -png one -jpg one -png from s3 </description>
+    </item>
+    
+    <item>
+      <title>projectY-title</title>
+      <link>https://nk-arch.github.io/projects/projecty/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://nk-arch.github.io/projects/projecty/</guid>
+      <description> INFO something in English
+one -png one -jpg one -png from s3 </description>
+    </item>
+    
+  </channel>
 </rss>
