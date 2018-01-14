@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Categories on </title>
     <link>http://nk-arch.github.io/categories/</link>
-    <description>Recent content on </description>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 21:28:43 -0500</lastBuildDate>
@@ -12,95 +12,12 @@
     
     
     <item>
-      <title>Ipsum</title>
-      <link>http://nk-arch.github.io/competitions/ipsum/</link>
+      <title></title>
+      <link>http://nk-arch.github.io/categories/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>http://nk-arch.github.io/competitions/ipsum/</guid>
-      <description>INFO something in English
-FOtos Κάτι στα ελληνικά
-description Fetching image from S3</description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>http://nk-arch.github.io/competitions/ipsum/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://nk-arch.github.io/competitions/ipsum/</guid>
-      <description>INFO something in English
-FOtos Κάτι στα ελληνικά
-description Fetching image from S3</description>
-    </item>
-    
-    <item>
-      <title>My CV</title>
-      <link>http://nk-arch.github.io/cv/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://nk-arch.github.io/cv/</guid>
-      <description>Nantia Education  2010-2014 (expected) **Master, **; Awesome University (MyTown)
-Thesis title: Deep Learning Approaches to the Self-Awesomeness Estimation Problem
- 2007-2010 BSc, Computer Science and Electrical Engineering; University of HomeTown (HomeTown)
-Minor: Awesomeology
-  Experience  Item with link. Links will work both in the html and pdf versions.  Technical Experience  archicat  Extra Section, Call it Whatever You Want  Human Languages:
- English  Random tidbit</description>
-    </item>
-    
-    <item>
-      <title>My CV</title>
-      <link>http://nk-arch.github.io/cv/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://nk-arch.github.io/cv/</guid>
-      <description>Nantia Education  2010-2014 (expected) **Master, **; Awesome University (MyTown)
-Thesis title: Deep Learning Approaches to the Self-Awesomeness Estimation Problem
- 2007-2010 BSc, Computer Science and Electrical Engineering; University of HomeTown (HomeTown)
-Minor: Awesomeology
-  Experience  Item with link. Links will work both in the html and pdf versions.  Technical Experience  archicat  Extra Section, Call it Whatever You Want  Human Languages:
- English  Random tidbit</description>
-    </item>
-    
-    <item>
-      <title>projectX-title</title>
-      <link>http://nk-arch.github.io/projects/projectx/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://nk-arch.github.io/projects/projectx/</guid>
-      <description>INFO something in English
-FOtos Κάτι στα ελληνικά</description>
-    </item>
-    
-    <item>
-      <title>projectX-title</title>
-      <link>http://nk-arch.github.io/projects/projectx/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://nk-arch.github.io/projects/projectx/</guid>
-      <description>INFO something in English
-FOtos Κάτι στα ελληνικά</description>
-    </item>
-    
-    <item>
-      <title>projectY-title</title>
-      <link>http://nk-arch.github.io/projects/projecty/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://nk-arch.github.io/projects/projecty/</guid>
-      <description>INFO something in English
-FOtos Κάτι στα ελληνικά
-description</description>
-    </item>
-    
-    <item>
-      <title>projectY-title</title>
-      <link>http://nk-arch.github.io/projects/projecty/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>http://nk-arch.github.io/projects/projecty/</guid>
-      <description>INFO something in English
-FOtos Κάτι στα ελληνικά
-description</description>
+      <guid>http://nk-arch.github.io/categories/</guid>
+      <description></description>
     </item>
     
   </channel>
