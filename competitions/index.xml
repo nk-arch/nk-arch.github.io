@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My competitions on </title>
-    <link>http://example.org/competitions/</link>
+    <link>http://nk-arch.github.io/competitions/</link>
     <description>Recent content in My competitions on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/competitions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nk-arch.github.io/competitions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ipsum</title>
-      <link>http://example.org/competitions/ipsum/</link>
+      <link>http://nk-arch.github.io/competitions/ipsum/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>http://example.org/competitions/ipsum/</guid>
+      <guid>http://nk-arch.github.io/competitions/ipsum/</guid>
       <description>INFO something in English
 FOtos Κάτι στα ελληνικά
 description Fetching image from S3</description>

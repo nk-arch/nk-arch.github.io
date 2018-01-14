@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/competitions/</loc>
+    <loc>http://nk-arch.github.io/competitions/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>http://nk-arch.github.io/projects/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/competitions/ipsum/</loc>
+    <loc>http://nk-arch.github.io/competitions/ipsum/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/cv/</loc>
+    <loc>http://nk-arch.github.io/cv/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/projectx/</loc>
+    <loc>http://nk-arch.github.io/projects/projectx/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/projecty/</loc>
+    <loc>http://nk-arch.github.io/projects/projecty/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://nk-arch.github.io/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://nk-arch.github.io/categories/</loc>
     <lastmod>2017-10-31T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://nk-arch.github.io/categories/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nk-arch.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
