@@ -17,8 +17,9 @@
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
       <guid>https://nk-arch.github.io/projects/projectx/</guid>
-      <description>INFO something in English
-FOtos Κάτι στα ελληνικά</description>
+      <description> INFO something in English
+FOtos  Κάτι στα ελληνικά
+ </description>
     </item>
     
     <item>
@@ -28,7 +29,7 @@ FOtos Κάτι στα ελληνικά</description>
       
       <guid>https://nk-arch.github.io/projects/projecty/</guid>
       <description> INFO something in English
-one -png one -jpg one -png from s3 </description>
+one -png from s3  </description>
     </item>
     
   </channel>

@@ -17,9 +17,10 @@
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
       <guid>https://nk-arch.github.io/competitions/ipsum/</guid>
-      <description>INFO something in English
-FOtos Κάτι στα ελληνικά
-description Fetching image from S3</description>
+      <description> INFO something in English
+FOtos  Κάτι στα ελληνικά
+ description Fetching image from S3
+ </description>
     </item>
     
   </channel>
