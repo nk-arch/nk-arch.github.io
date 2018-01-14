@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://example.org/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 21:28:43 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ipsum</title>
+      <link>http://example.org/competitions/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://example.org/competitions/ipsum/</guid>
+      <description>INFO something in English
+FOtos Κάτι στα ελληνικά
+description Fetching image from S3</description>
+    </item>
+    
+    <item>
+      <title>My CV</title>
+      <link>http://example.org/cv/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://example.org/cv/</guid>
+      <description>Nantia Education  2010-2014 (expected) **Master, **; Awesome University (MyTown)
+Thesis title: Deep Learning Approaches to the Self-Awesomeness Estimation Problem
+ 2007-2010 BSc, Computer Science and Electrical Engineering; University of HomeTown (HomeTown)
+Minor: Awesomeology
+  Experience  Item with link. Links will work both in the html and pdf versions.  Technical Experience  archicat  Extra Section, Call it Whatever You Want  Human Languages:
+ English  Random tidbit</description>
+    </item>
+    
+    <item>
+      <title>projectX-title</title>
+      <link>http://example.org/projects/projectx/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://example.org/projects/projectx/</guid>
+      <description>INFO something in English
+FOtos Κάτι στα ελληνικά</description>
+    </item>
+    
+    <item>
+      <title>projectY-title</title>
+      <link>http://example.org/projects/projecty/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://example.org/projects/projecty/</guid>
+      <description>INFO something in English
+FOtos Κάτι στα ελληνικά
+description</description>
+    </item>
+    
+  </channel>
+</rss>
