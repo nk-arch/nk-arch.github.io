@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>http://nk-arch.github.io/categories/</link>
+    <link>https://nk-arch.github.io/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 21:28:43 -0500</lastBuildDate>
     
-	<atom:link href="http://nk-arch.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nk-arch.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://nk-arch.github.io/categories/</link>
+      <link>https://nk-arch.github.io/categories/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>http://nk-arch.github.io/categories/</guid>
+      <guid>https://nk-arch.github.io/categories/</guid>
       <description></description>
     </item>
     
