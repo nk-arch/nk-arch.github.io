@@ -18,9 +18,9 @@
       
       <guid>https://nk-arch.github.io/competitions/ipsum/</guid>
       <description> INFO something in English
-FOtos  Κάτι στα ελληνικά
- description Fetching image from S3
- </description>
+FOtos   Κάτι στα ελληνικά
+  description Fetching image from S3
+  </description>
     </item>
     
     <item>
@@ -61,7 +61,7 @@ ARCHITECTS: Nantia Karampogia, Paradeisia Manari
 LOCATION: Nafplio, Greece
 DATE: 2016
 Αντικείμενο της μελέτης ήταν ο σχεδιασμός του υπαίθριου χώρου γύρω από την πισίνα, του λουτρού, της κουζίνας και ενός επίπλου με σκοπό την δημιουργία αποθηκευτικού χώρου στο ενιαίο χώρο διημέρευσης. Η επιλογή υλικών, επίπλων, υφασμάτων και φωτιστικών ολοκλήρωσε την διακοσμητική πρόταση.
-   Gallery             </description>
+   Gallery               </description>
     </item>
     
     <item>
@@ -110,8 +110,8 @@ DATE: 2016
       
       <guid>https://nk-arch.github.io/projects/projectx/</guid>
       <description> INFO something in English
-FOtos  Κάτι στα ελληνικά
- </description>
+FOtos   Κάτι στα ελληνικά
+  </description>
     </item>
     
     <item>
@@ -121,7 +121,7 @@ FOtos  Κάτι στα ελληνικά
       
       <guid>https://nk-arch.github.io/projects/projecty/</guid>
       <description> INFO something in English
-one -png from s3  </description>
+one -png from s3   </description>
     </item>
     
   </channel>

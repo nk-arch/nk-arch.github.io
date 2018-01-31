@@ -18,9 +18,9 @@
       
       <guid>https://nk-arch.github.io/competitions/ipsum/</guid>
       <description> INFO something in English
-FOtos  Κάτι στα ελληνικά
- description Fetching image from S3
- </description>
+FOtos   Κάτι στα ελληνικά
+  description Fetching image from S3
+  </description>
     </item>
     
   </channel>
