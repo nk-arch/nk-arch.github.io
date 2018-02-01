@@ -39,6 +39,12 @@ h1, h2, h3, h4, h5, h6 {
     color: black;
 }
 
+#wrapper {
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .tiles article:nth-child(6n - 5):before {
 background-color: white;
 }

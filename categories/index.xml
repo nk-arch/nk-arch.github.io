@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Categories on </title>
     <link>https://nk-arch.github.io/categories/</link>
-    <description>Recent content on </description>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 21:28:43 -0500</lastBuildDate>
@@ -12,163 +12,21 @@
     
     
     <item>
-      <title>Ipsum</title>
-      <link>https://nk-arch.github.io/competitions/ipsum/</link>
+      <title></title>
+      <link>https://nk-arch.github.io/categories/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>https://nk-arch.github.io/competitions/ipsum/</guid>
-      <description> INFO something in English
-FOtos   Κάτι στα ελληνικά
-  description Fetching image from S3
-  </description>
+      <guid>https://nk-arch.github.io/categories/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Ipsum</title>
-      <link>https://nk-arch.github.io/competitions/ipsum/</link>
+      <title>Renovation</title>
+      <link>https://nk-arch.github.io/categories/renovation/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>https://nk-arch.github.io/competitions/ipsum/</guid>
-      <description> INFO something in English
-FOtos   Κάτι στα ελληνικά
-  description Fetching image from S3
-  </description>
-    </item>
-    
-    <item>
-      <title>My CV</title>
-      <link>https://nk-arch.github.io/cv/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/cv/</guid>
-      <description>Nantia Education  2010-2014 (expected) **Master, **; Awesome University (MyTown)
-Thesis title: Deep Learning Approaches to the Self-Awesomeness Estimation Problem
- 2007-2010 BSc, Computer Science and Electrical Engineering; University of HomeTown (HomeTown)
-Minor: Awesomeology
-  Experience  Item with link. Links will work both in the html and pdf versions.  Technical Experience  archicat  Extra Section, Call it Whatever You Want  Human Languages:
- English  Random tidbit</description>
-    </item>
-    
-    <item>
-      <title>My CV</title>
-      <link>https://nk-arch.github.io/cv/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/cv/</guid>
-      <description>Nantia Education  2010-2014 (expected) **Master, **; Awesome University (MyTown)
-Thesis title: Deep Learning Approaches to the Self-Awesomeness Estimation Problem
- 2007-2010 BSc, Computer Science and Electrical Engineering; University of HomeTown (HomeTown)
-Minor: Awesomeology
-  Experience  Item with link. Links will work both in the html and pdf versions.  Technical Experience  archicat  Extra Section, Call it Whatever You Want  Human Languages:
- English  Random tidbit</description>
-    </item>
-    
-    <item>
-      <title>Renovation Of Attic</title>
-      <link>https://nk-arch.github.io/projects/attic/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/attic/</guid>
-      <description>RENOVATION OF ATTIC CLIENT: Private
-ARCHITECTS: Nantia Karampogia, Paradeisia Manari
-LOCATION: Nafplio, Greece
-DATE: 2017
-Αντικείμενο της μελέτης ήταν η ανακαίνιση σοφίτας στο Ναύπλιο με σκοπό την τουριστική της εκμετάλλευση. Η Χωροθέτηση της κουζίνας και του μπάνιου έγινε με γνώμονα να μην χαθεί η αίσθηση του ανοιχτού χώρου και η διάχυση του φωτός σε αυτόν από τους τέσσερις φεγγίτες που υπήρχαν. Τα υλικά που επιλέχθηκαν προκαλούν μια ανάλαφρη αίσθηση στον επισκέπτη.</description>
-    </item>
-    
-    <item>
-      <title>Renovation Of Guest House</title>
-      <link>https://nk-arch.github.io/projects/guesthouse1/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/guesthouse1/</guid>
-      <description> RENOVATION OF GUEST HOUSE CLIENT: Private
-ARCHITECTS: Nantia Karampogia, Paradeisia Manari
-LOCATION: Nafplio, Greece
-DATE: 2016
-Αντικείμενο της μελέτης ήταν ο σχεδιασμός του υπαίθριου χώρου γύρω από την πισίνα, του λουτρού, της κουζίνας και ενός επίπλου με σκοπό την δημιουργία αποθηκευτικού χώρου στο ενιαίο χώρο διημέρευσης. Η επιλογή υλικών, επίπλων, υφασμάτων και φωτιστικών ολοκλήρωσε την διακοσμητική πρόταση.
-   Gallery               </description>
-    </item>
-    
-    <item>
-      <title>Renovation Of Office Space</title>
-      <link>https://nk-arch.github.io/projects/office1/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/office1/</guid>
-      <description>RENOVATION OF OFFICE SPACE CLIENT: Private
-ARCHITECTS: Nantia Karampogia, Paradeisia Manari
-LOCATION: Athens, Greece
-DATE: 2016
-Η διαμόρφωση της κάτοψης βασίστηκε στις λειτουργικές ανάγκες του ανθρώπινου δυναμικού και στον τρόπο που ήθελαν οι πελάτες να διαχωριστούν οι χρήσεις. Ιδιαίτερη βαρύτητα δόθηκε στον τρόπο που στήθηκε το δίκτυο καλωδίωσης ώστε να μην επιβαρύνει αισθητικά τον χώρο. Ο φωτισμός του χώρου αποτέλεσε άλλο ένα σημαντικό κομμάτι του σχεδιασμού Εκτός από τα κεντρικά αναρτώμενα φωτιστικά σχεδιάστηκαν κρυφοί φωτισμοί που τρέχουν είτε στα ξύλινα σοβατεπί είτε σε σε τοίχους γυψοσανίδας που δημιούργησαν ένα δεύτερο επίπεδο στον τοίχο.</description>
-    </item>
-    
-    <item>
-      <title>Renovation Of Residence</title>
-      <link>https://nk-arch.github.io/projects/residence1/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/residence1/</guid>
-      <description>RENOVATION OF RESIDENCE CLIENT: Private
-ARCHITECTS: Nantia Karampogia, Paradeisia Manari
-LOCATION: ATHENS, Greece
-DATE: 2017
-Μας ζητήθηκε να επέμβουμε σε διάφορα σημεία του σπιτιού με γνώμονα την ανανέωση του χώρου τόσο από αισθητική όσο και από λειτουργική άποψη. Οι επεμβάσεις μας βασίστηκαν στην δημιουργία φωτεινών πηγών που δίνουν την δυνατότητα στο χρήστη να επηρεάζει την ένταση και τα σημεία φωτισμού των χώρων καθώς και στον σχεδιασμό επίπλων και την κατασκευή τους ώστε να πληρούνται τα αισθητικά / λειτουργικά κριτήρια των πελατών.</description>
-    </item>
-    
-    <item>
-      <title>Renovation Of ZP Parking</title>
-      <link>https://nk-arch.github.io/projects/parking1/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/parking1/</guid>
-      <description>RENOVATION OF ZP PARKING CLIENT: Private
-ARCHITECTS: Nantia Karampogia, Paradeisia Manari
-LOCATION: Athens, Greece
-DATE: 2016
-Σημαντικό κομμάτι του σχεδιασμού ήταν η αναβάθμιση των παροχών στους πελάτες του parking καθώς και των χώρων παραμονής των εργαζομένων. Σημαντική λεπτομέρεια στον σχεδιασμό της πρόσοψης εκτός από την εύκολη ενημέρωση για τις παροχές που προσφέρονται ήταν και η αισθητική αναβάθμιση τόσο στην διάρκεια της ημέρας όσο και στον τρόπο φωτισμού της το βράδυ.</description>
-    </item>
-    
-    <item>
-      <title>projectX-title</title>
-      <link>https://nk-arch.github.io/projects/projectx/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/projectx/</guid>
-      <description> INFO something in English
-FOtos   Κάτι στα ελληνικά
-  </description>
-    </item>
-    
-    <item>
-      <title>projectX-title</title>
-      <link>https://nk-arch.github.io/projects/projectx/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/projectx/</guid>
-      <description> INFO something in English
-FOtos   Κάτι στα ελληνικά
-  </description>
-    </item>
-    
-    <item>
-      <title>projectY-title</title>
-      <link>https://nk-arch.github.io/projects/projecty/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/projecty/</guid>
-      <description> INFO something in English
-one -png from s3   </description>
-    </item>
-    
-    <item>
-      <title>projectY-title</title>
-      <link>https://nk-arch.github.io/projects/projecty/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/projecty/</guid>
-      <description> INFO something in English
-one -png from s3   </description>
+      <guid>https://nk-arch.github.io/categories/renovation/</guid>
+      <description></description>
     </item>
     
   </channel>
