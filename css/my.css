@@ -3,17 +3,16 @@ body {
 }
 
 body, input, select, textarea {
-color: black;
+    color: black;
 }
 
-header.major > :first-child:after {
-	height: 1px;
-	margin: 0.301em 3 0.5em 0;
+p {
+    margin: 0 0 0em 0;
 }
 
 #header .logo strong {
-	color: black;
-	background-color: white;
+    color: black;
+    background-color: white;
  }
 
 #banner:after {
@@ -21,16 +20,18 @@ header.major > :first-child:after {
 }
 
 #header {
-		background-color: transparent;
+    background-color: transparent;
 }
 
 header.major > :first-child:after {
-				background-color: black;
+    background-color: black;
+    height: 1.5px;
+    margin: -0.4em 0 0.5em 0;
 }
 
 .button {
-		color:black;
-		box-shadow: inset 0 0 0 2px black;
+    color:black;
+    box-shadow: inset 0 0 0 2px white;
 }
 
 #menu {
