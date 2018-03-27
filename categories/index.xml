@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Categories on </title>
     <link>https://nk-arch.github.io/categories/</link>
-    <description>Recent content on </description>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 21:28:43 -0500</lastBuildDate>
@@ -12,111 +12,30 @@
     
     
     <item>
-      <title>Ipsum</title>
-      <link>https://nk-arch.github.io/competitions/ipsum/</link>
+      <title></title>
+      <link>https://nk-arch.github.io/categories/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>https://nk-arch.github.io/competitions/ipsum/</guid>
-      <description> INFO something in English
-FOtos   Κάτι στα ελληνικά
-  description Fetching image from S3
-  </description>
+      <guid>https://nk-arch.github.io/categories/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Ipsum</title>
-      <link>https://nk-arch.github.io/competitions/ipsum/</link>
+      <title>Construction</title>
+      <link>https://nk-arch.github.io/categories/construction/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>https://nk-arch.github.io/competitions/ipsum/</guid>
-      <description> INFO something in English
-FOtos   Κάτι στα ελληνικά
-  description Fetching image from S3
-  </description>
+      <guid>https://nk-arch.github.io/categories/construction/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>My CV</title>
-      <link>https://nk-arch.github.io/cv/</link>
+      <title>Renovation</title>
+      <link>https://nk-arch.github.io/categories/renovation/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>https://nk-arch.github.io/cv/</guid>
-      <description>           photo info     Interests  me endiaferei A me endiaferei A  Skills  na me protimisete git to B na me protimisete git to B  More  link to CV link to Portofolio  </description>
-    </item>
-    
-    <item>
-      <title>My CV</title>
-      <link>https://nk-arch.github.io/cv/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/cv/</guid>
-      <description>           photo info     Interests  me endiaferei A me endiaferei A  Skills  na me protimisete git to B na me protimisete git to B  More  link to CV link to Portofolio  </description>
-    </item>
-    
-    <item>
-      <title>Κατοικία στην Βούλα, Αθήνα</title>
-      <link>https://nk-arch.github.io/projects/residence/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/residence/</guid>
-      <description>Αρχιτεκτονικές επεμβάσεις / Διακοσμητική μελέτη Επίβλεψη κατασκευής
-ΕΡΓΟΔΟΤΗΣ: Ιδιώτης
-ΑΡΧΙΤΕΚΤΟΝΕΣ: Νάντια Καραμπογιά, Παραδεισία Μανάρη
-ΕΤΟΣ ΣΧΕΔΙΑΣΜΟΥ: 2017
-Μας ζητήθηκε να επέμβουμε σε διάφορα σημεία του σπιτιού με γνώμονα την ανανέωση του χώρου τόσο από αισθητική όσο και από λειτουργική άποψη. Οι επεμβάσεις μας βασίστηκαν στην δημιουργία φωτεινών πηγών που δίνουν την δυνατότητα στο χρήστη να επηρεάζει την ένταση και τα σημεία φωτισμού των χώρων καθώς και στον σχεδιασμό επίπλων και την κατασκευή τους ώστε να πληρούνται τα αισθητικά / λειτουργικά κριτήρια των πελατών.</description>
-    </item>
-    
-    <item>
-      <title>Ξενώνας στη Λακωνία</title>
-      <link>https://nk-arch.github.io/projects/guesthouse1/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/guesthouse1/</guid>
-      <description>Διακοσμητική Μελέτη
-ΕΡΓΟΔΟΤΗΣ: Ιδιώτης
-ΑΡΧΙΤΕΚΤΟΝΕΣ: Νάντια Καραμπογιά, Παραδεισία Μανάρη
-ΕΤΟΣ ΣΧΕΔΙΑΣΜΟΥ: 2016
-Αντικείμενο της μελέτης ήταν ο σχεδιασμός του υπαίθριου χώρου γύρω από την πισίνα, του λουτρού, της κουζίνας και ενός επίπλου με σκοπό την δημιουργία αποθηκευτικού χώρου στο ενιαίο χώρο διημέρευσης. Η επιλογή υλικών, επίπλων, υφασμάτων και φωτιστικών ολοκλήρωσε την διακοσμητική πρόταση.
-   Gallery  &amp;ndash;                                     </description>
-    </item>
-    
-    <item>
-      <title>Σοφίτα στο Ναύπλιο</title>
-      <link>https://nk-arch.github.io/projects/attic/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/attic/</guid>
-      <description>Αρχιτεκτονική / Διακοσμητική μελέτη, Επίβλεψη κατασκευής
-CLIENT: Private
-ARCHITECTS: Nantia Karampogia, Paradeisia Manari
-LOCATION: Nafplio, Greece
-DATE: 2017
-Αντικείμενο της μελέτης ήταν η ανακαίνιση σοφίτας στο Ναύπλιο με σκοπό την τουριστική της εκμετάλλευση. Η Χωροθέτηση της κουζίνας και του μπάνιου έγινε με γνώμονα να μην χαθεί η αίσθηση του ανοιχτού χώρου και η διάχυση του φωτός σε αυτόν από τους τέσσερις φεγγίτες που υπήρχαν. Τα υλικά που επιλέχθηκαν προκαλούν μια ανάλαφρη αίσθηση στον επισκέπτη.</description>
-    </item>
-    
-    <item>
-      <title>Υπόγειο πάρκινγκ αυτοκινήτων στην Αθήνα</title>
-      <link>https://nk-arch.github.io/projects/parking1/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/parking1/</guid>
-      <description>Μελέτη ανακαίνισης / Επίβλεψη κατασκευής
-ΕΡΓΟΔΟΤΗΣ: Ιδιώτης
-ΑΡΧΙΤΕΚΤΟΝΕΣ: Νάντια Καραμπογιά, Παραδεισία Μανάρη
-ΕΤΟΣ ΣΧΕΔΙΑΣΜΟΥ: 2016
-Σημαντικό κομμάτι του σχεδιασμού ήταν η αναβάθμιση των παροχών στους πελάτες του parking καθώς και των χώρων παραμονής των εργαζομένων. Σημαντική λεπτομέρεια στον σχεδιασμό της πρόσοψης εκτός από την εύκολη ενημέρωση για τις παροχές που προσφέρονται ήταν και η αισθητική αναβάθμιση τόσο στην διάρκεια της ημέρας όσο και στον τρόπο φωτισμού της το βράδυ. Η χωροθέτηση και διακοσμητική πρόταση των wc (αντρών, γυναικών, αμέα) καθώς και ο χώρος περιποίησης βρεφών βασίστηκε στο να δημιουργηθεί ένας λειτουργικός και εύκολα προσβάσιμος χώρος.</description>
-    </item>
-    
-    <item>
-      <title>Χώρος γραφείων στο Κολωνάκι</title>
-      <link>https://nk-arch.github.io/projects/office1/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://nk-arch.github.io/projects/office1/</guid>
-      <description>Αρχιτεκτονική / Διακοσμητική Μελέτη / Επίβλεψη κατασκευής
-ΕΡΓΟΔΟΤΗΣ: Ιδιώτης ΑΡΧΙΤΕΚΤΟΝΕΣ: Νάντια Καραμπογιά, Παραδεισία Μανάρη
-ΕΤΟΣ ΣΧΕΔΙΑΣΜΟΥ: 2016
-Η διαμόρφωση της κάτοψης βασίστηκε στις λειτουργικές ανάγκες του ανθρώπινου δυναμικού και στον τρόπο που ήθελαν οι πελάτες να διαχωριστούν οι χρήσεις. Ιδιαίτερη βαρύτητα δόθηκε στον τρόπο που στήθηκε το δίκτυο καλωδίωσης ώστε να μην επιβαρύνει αισθητικά τον χώρο. Ο φωτισμός του χώρου αποτέλεσε άλλο ένα σημαντικό κομμάτι του σχεδιασμού Εκτός από τα κεντρικά αναρτώμενα φωτιστικά σχεδιάστηκαν κρυφοί φωτισμοί που τρέχουν είτε στα ξύλινα σοβατεπί είτε σε σε τοίχους γυψοσανίδας που δημιούργησαν ένα δεύτερο επίπεδο στον τοίχο.</description>
+      <guid>https://nk-arch.github.io/categories/renovation/</guid>
+      <description></description>
     </item>
     
   </channel>
